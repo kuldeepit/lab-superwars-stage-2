@@ -1,3 +1,5 @@
+deployed : https://test--tiny-clafoutis-87c5ed.netlify.app/
+
 # Lab | Superwars Stage 2
 
 Remember Superwars stage 1? However, here is a quick recap of things.
